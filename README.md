@@ -19,6 +19,7 @@ For official government material (portals, open data, APIs, maps and calculators
 - [Science and Research](#science-and-research)
 - [Tech Community and News](#tech-community-and-news)
 - [Jobs and Careers](#jobs-and-careers)
+- [Immigration and Residency](#immigration-and-residency)
 - [Health and Society](#health-and-society)
 - [Cities and Travel](#cities-and-travel)
 - [Learning, Indigenous Peoples and Culture](#learning-indigenous-peoples-and-culture)
@@ -205,6 +206,19 @@ For official government material (portals, open data, APIs, maps and calculators
 - [Ottechwa](https://github.com/rikbeld/Ottechwa#readme) - Tech companies in and around Ottawa.
 - [r/cscareerquestionsCAD Wiki](https://www.reddit.com/r/cscareerquestionsCAD/wiki/index/) - Career resources for software developers in Canada.
 
+## Immigration and Residency
+
+- [CLB and NCLC Equivalency Charts](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html) - Official tables converting IELTS, CELPIP, PTE Core, TEF Canada and TCF Canada scores to Canadian Language Benchmarks.
+- [CRS Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html) - IRCC's tool for estimating a Comprehensive Ranking System score in Express Entry.
+- [Discover Canada](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html) - The official study guide for the citizenship test.
+- [Express Entry Rounds of Invitations](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html) - Every Express Entry draw with its date, category, number of invitations and CRS cut-off.
+- [Find a Panel Physician](https://secure.cic.gc.ca/PanelPhysicianMedecinDesigne/en/Home) - Doctors approved by IRCC for the immigration medical exam, by country.
+- [Newcomer Services Finder](https://ircc.canada.ca/english/newcomers/services/index.asp) - Search for free, IRCC-funded settlement services by postal code, outside Quebec.
+- [Newcomers to Canada and the CRA](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html) - Tax residency, the first return and applying for benefits as a newcomer.
+- [Physical Presence Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/how/physical-presence.html) - Counts days in Canada toward the 1,095 needed for citizenship, including credit for time before permanent residence.
+- [Police Certificates by Country](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html) - How to get the police certificate IRCC asks for from each country.
+- [r/ImmigrationCanada Wiki](https://www.reddit.com/r/ImmigrationCanada/wiki/index/) - FAQ, getting-started guide and glossary for immigrating to Canada.
+
 ## Health and Society
 
 - [Accessibility Community Directory](https://a11y.canada.ca/en/community-directory) - Teams and communities working on accessibility in the federal government.
@@ -212,7 +226,6 @@ For official government material (portals, open data, APIs, maps and calculators
 - [Canadian Mental Health](https://github.com/axologic/awesome-canadian-mental-health#readme) - Crisis lines, therapist directories, organizations and apps for mental health in Canada.
 - [Health Infobase](https://health-infobase.canada.ca/) - Public Health Agency of Canada's interactive health data and dashboards.
 - [OSINT for Countries (Canada section)](https://github.com/wddadk/OSINT-for-countries#readme) - Canadian registries, records and lookup tools for open-source research.
-- [r/ImmigrationCanada Wiki](https://www.reddit.com/r/ImmigrationCanada/wiki/index/) - FAQ, getting-started guide and glossary for immigrating to Canada.
 
 ## Cities and Travel
 
