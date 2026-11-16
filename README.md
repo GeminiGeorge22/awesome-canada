@@ -8,8 +8,6 @@
 
 Also as a website, with a "Report broken link" button on every entry: [leon-wbr.github.io/awesome-canada](https://leon-wbr.github.io/awesome-canada/).
 
-For official government material (portals, open data, APIs, maps and calculators at every level), see also [wra-sol's Awesome Canada](https://github.com/wra-sol/awesome-canada#readme).
-
 ## Contents
 
 - [Government Digital Services](#government-digital-services)
@@ -289,3 +287,7 @@ Still useful, but no longer kept up to date.
 [Report a dead link](https://github.com/leon-wbr/awesome-canada/issues/new?template=dead-link.yml) · [Suggest an entry](https://github.com/leon-wbr/awesome-canada/issues/new?template=suggest-entry.yml) · [Edit the list](https://github.com/leon-wbr/awesome-canada/edit/main/README.md)
 
 Please read the [contribution guidelines](contributing.md) first.
+
+## Footnotes
+
+For official government material (portals, open data, APIs, maps and calculators at every level), see also [wra-sol's Awesome Canada](https://github.com/wra-sol/awesome-canada#readme).
