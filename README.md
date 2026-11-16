@@ -1,6 +1,12 @@
-# Awesome Canada [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h1 align="center">
+	<a href="https://leon-wbr.github.io/awesome-canada/"><img width="640" src="media/social.png" alt="Awesome Canada"></a>
+	<br>
+	<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</h1>
 
 > Canada's open data, public services, code and tech community, and how to live and work there.
+
+Also as a website, with a "Report broken link" button on every entry: [leon-wbr.github.io/awesome-canada](https://leon-wbr.github.io/awesome-canada/).
 
 For official government material (portals, open data, APIs, maps and calculators at every level), see also [wra-sol's Awesome Canada](https://github.com/wra-sol/awesome-canada#readme).
 
